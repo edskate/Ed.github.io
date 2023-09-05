@@ -14,3 +14,5 @@ console.log(lista);
 // exibirá 3 
 // console.log(lista)
 
+let listaFrutas = ["banana", "abacaxi", "abacate"];
+console.log(listaFrutas);
