@@ -15,4 +15,10 @@ console.log(lista);
 // console.log(lista)
 
 let listaFrutas = ["banana", "abacaxi", "abacate"];
-console.log(listaFrutas);
+console.log(listaFrutas)
+
+let listaMaquiagem = ["rimel", "baton", "lapis preto", "base"];
+console.log(listaMaquiagem)
+
+let ListaNomes = ["Carina", "luiz", "Paula", "pedro"];
+console.log(ListaNomes)
